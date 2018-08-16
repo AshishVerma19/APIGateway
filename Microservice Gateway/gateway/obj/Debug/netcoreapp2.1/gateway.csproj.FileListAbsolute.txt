@@ -1,0 +1,14 @@
+C:\Users\verma\Desktop\code\Microservice Gateway\gateway\obj\Debug\netcoreapp2.1\gateway.csprojAssemblyReference.cache
+C:\Users\verma\Desktop\code\Microservice Gateway\gateway\obj\Debug\netcoreapp2.1\gateway.csproj.CoreCompileInputs.cache
+C:\Users\verma\Desktop\code\Microservice Gateway\gateway\obj\Debug\netcoreapp2.1\gateway.RazorAssemblyInfo.cache
+C:\Users\verma\Desktop\code\Microservice Gateway\gateway\obj\Debug\netcoreapp2.1\gateway.RazorAssemblyInfo.cs
+C:\Users\verma\Desktop\code\Microservice Gateway\gateway\obj\Debug\netcoreapp2.1\gateway.AssemblyInfoInputs.cache
+C:\Users\verma\Desktop\code\Microservice Gateway\gateway\obj\Debug\netcoreapp2.1\gateway.AssemblyInfo.cs
+C:\Users\verma\Desktop\code\Microservice Gateway\gateway\bin\Debug\netcoreapp2.1\gateway.deps.json
+C:\Users\verma\Desktop\code\Microservice Gateway\gateway\bin\Debug\netcoreapp2.1\gateway.runtimeconfig.json
+C:\Users\verma\Desktop\code\Microservice Gateway\gateway\bin\Debug\netcoreapp2.1\gateway.runtimeconfig.dev.json
+C:\Users\verma\Desktop\code\Microservice Gateway\gateway\bin\Debug\netcoreapp2.1\gateway.dll
+C:\Users\verma\Desktop\code\Microservice Gateway\gateway\bin\Debug\netcoreapp2.1\gateway.pdb
+C:\Users\verma\Desktop\code\Microservice Gateway\gateway\obj\Debug\netcoreapp2.1\gateway.RazorTargetAssemblyInfo.cache
+C:\Users\verma\Desktop\code\Microservice Gateway\gateway\obj\Debug\netcoreapp2.1\gateway.dll
+C:\Users\verma\Desktop\code\Microservice Gateway\gateway\obj\Debug\netcoreapp2.1\gateway.pdb

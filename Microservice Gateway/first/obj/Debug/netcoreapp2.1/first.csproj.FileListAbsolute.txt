@@ -1,0 +1,14 @@
+C:\Users\verma\Desktop\code\Microservice Gateway\first\bin\Debug\netcoreapp2.1\first.deps.json
+C:\Users\verma\Desktop\code\Microservice Gateway\first\bin\Debug\netcoreapp2.1\first.runtimeconfig.json
+C:\Users\verma\Desktop\code\Microservice Gateway\first\bin\Debug\netcoreapp2.1\first.runtimeconfig.dev.json
+C:\Users\verma\Desktop\code\Microservice Gateway\first\bin\Debug\netcoreapp2.1\first.dll
+C:\Users\verma\Desktop\code\Microservice Gateway\first\bin\Debug\netcoreapp2.1\first.pdb
+C:\Users\verma\Desktop\code\Microservice Gateway\first\obj\Debug\netcoreapp2.1\first.csprojAssemblyReference.cache
+C:\Users\verma\Desktop\code\Microservice Gateway\first\obj\Debug\netcoreapp2.1\first.csproj.CoreCompileInputs.cache
+C:\Users\verma\Desktop\code\Microservice Gateway\first\obj\Debug\netcoreapp2.1\first.RazorAssemblyInfo.cache
+C:\Users\verma\Desktop\code\Microservice Gateway\first\obj\Debug\netcoreapp2.1\first.RazorAssemblyInfo.cs
+C:\Users\verma\Desktop\code\Microservice Gateway\first\obj\Debug\netcoreapp2.1\first.AssemblyInfoInputs.cache
+C:\Users\verma\Desktop\code\Microservice Gateway\first\obj\Debug\netcoreapp2.1\first.AssemblyInfo.cs
+C:\Users\verma\Desktop\code\Microservice Gateway\first\obj\Debug\netcoreapp2.1\first.RazorTargetAssemblyInfo.cache
+C:\Users\verma\Desktop\code\Microservice Gateway\first\obj\Debug\netcoreapp2.1\first.dll
+C:\Users\verma\Desktop\code\Microservice Gateway\first\obj\Debug\netcoreapp2.1\first.pdb
